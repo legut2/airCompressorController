@@ -1,2 +1,2 @@
 # airCompressorController
-Helps maintain two air compressors and keep them from wearing out prematurely
+Helps maintain two air compressors and keep the motors from wearing out prematurely
