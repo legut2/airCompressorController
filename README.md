@@ -4,5 +4,5 @@ It also drains the water from the compressors as routine maintenance. Displays s
 in terms of a statemachine then were implemented as a switch case where every case is considered a different state. All done in one file
 to make flashing arduino easier when switching between the online editor and Arduino IDE that is local.
 
-# WIP Pic
+# WIP Pic (Don't have other photos)
 ![pictureWhileWIP.jpg](pictureWhileWIP.jpg)
